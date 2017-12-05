@@ -8,7 +8,7 @@
 Then this application is definitely for you ! 
 It allow to enter the list of your friend's names and then do the Secret Santa draw for you.
 
-But wait ! That's not all ! It will also send a mail to each person in your group and tell them to who they must offer a gift. 
+But wait ! There's more ! It will also send a mail to each person in your group and tell them to who they must offer a gift. 
 Garanted 100% without bugs ! 
 
 You can also disabled some specific cases 
